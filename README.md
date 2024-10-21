@@ -16,4 +16,6 @@ bun dev
 
 Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
 
-![Spotify API](https://github.com/user-attachments/assets/25af9fa7-a7d3-42a5-a83e-92651f5a04db)
+https://github.com/user-attachments/assets/ac645a92-9ee4-4c98-a887-ce5cbb6a78f0
+
+
